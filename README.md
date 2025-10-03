@@ -1,6 +1,6 @@
-💻 Passionate about solving problems through code and building impactful projects.
-⚡ Interested in machine learning, AI, and exploring new technologies.
-🌱 Continuously learning and improving through hands-on projects and research.
+- 💻 Passionate about solving problems through code and building impactful projects.
+- ⚡ Interested in machine learning, AI, and exploring new technologies.
+- 🌱 Continuously learning and improving through hands-on projects and research.
 
 
 <!---
