@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gaurav( @Goderr)
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ML and Deep Leanring
+💻 Passionate about solving problems through code and building impactful projects.
+⚡ Interested in machine learning, AI, and exploring new technologies.
+🌱 Continuously learning and improving through hands-on projects and research.
+
 
 <!---
 Goderr/Goderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
